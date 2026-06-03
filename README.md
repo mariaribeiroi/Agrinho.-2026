@@ -48,7 +48,7 @@
 
 header {
     background: #2e8b57;
-    color: white;
+    color: green;
     text-align: center;
     padding: 30px;
 }
@@ -100,7 +100,6 @@ function plantar() {
     arvores++;
     document.getElementById("numero").textContent = arvores;
 }
-    color: white;
+    color: pink;
     padding: 15px;
 }
-color🩷
