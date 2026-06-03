@@ -103,12 +103,3 @@ function plantar() {
     color: white;
     padding: 15px;
 }
-
-
-<footer>
-    <p>Projeto Agrinho 2026 © 2026</p>
-</footer>
-
-<script src="script.js"></script>
-</body>
-</html>
