@@ -1,0 +1,32 @@
+/* FUNDO AZUL */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e3f2fd;
+    text-align: center;
+    color: #0d47a1;
+}
+
+/* CABEÇALHO */
+header {
+    background-color: #1565c0;
+    color: white;
+    padding: 20px;
+}
+
+/* CAIXA */
+section {
+    background-color: #bbdefb;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+/* IMAGEM */
+img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 10px;
+    border: 3px solid #1565c0;
+}
